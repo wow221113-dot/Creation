@@ -1,6 +1,33 @@
 {
   "games": [
     {
+      "id": "math-party-e869",
+      "publishedAt": 1791076039176,
+      "history": [
+        {
+          "version": "1.0.0",
+          "notes": "Initial release",
+          "date": 1791076040929
+        }
+      ],
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/math-party-e869-1.0.0-Math-Party-7-.html",
+      "assets": [
+        "math-party-e869-1.0.0-Math-Party-7-.html",
+        "cover-math-party-e869-1791076040349.png"
+      ],
+      "fileName": "Math Party (7).html",
+      "fileSize": 28682,
+      "coverUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/cover-math-party-e869-1791076040349.png",
+      "title": "Math Party",
+      "tagline": "#math",
+      "genre": "Math",
+      "description": "Math Fun",
+      "color": "#3b5bdb",
+      "ageRating": 0,
+      "version": "1.0.0",
+      "updatedAt": 1791076040929
+    },
+    {
       "id": "math-party-7f5b",
       "publishedAt": 1791075583719,
       "history": [
