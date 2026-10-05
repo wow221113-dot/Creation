@@ -6,6 +6,11 @@
       "history": [
         {
           "version": "1.0.2",
+          "notes": "-Made new Ui Changes",
+          "date": 1791230207443
+        },
+        {
+          "version": "1.0.2",
           "notes": "- Fix Bugs",
           "date": 1791230120861
         },
@@ -25,6 +30,7 @@
         "world-tycoon-86aa-1.0.0-World-Tycoon-7-.html",
         "cover-world-tycoon-86aa-1791134231378.png",
         "world-tycoon-86aa-1.0.1-World-Tycoon-11-.html",
+        "world-tycoon-86aa-1.0.2-World-Tycoon.html",
         "world-tycoon-86aa-1.0.2-World-Tycoon.html"
       ],
       "fileName": "World Tycoon.html",
@@ -37,7 +43,7 @@
       "color": "#3b5bdb",
       "ageRating": 0,
       "version": "1.0.2",
-      "updatedAt": 1791230120861
+      "updatedAt": 1791230207443
     },
     {
       "id": "math-party-7f5b",
