@@ -5,18 +5,24 @@
       "publishedAt": 1791134230315,
       "history": [
         {
+          "version": "1.0.1",
+          "notes": "- Fix Bugs",
+          "date": 1791164921922
+        },
+        {
           "version": "1.0.0",
           "notes": "Initial release",
           "date": 1791134232195
         }
       ],
-      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/world-tycoon-86aa-1.0.0-World-Tycoon-7-.html",
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/world-tycoon-86aa-1.0.1-World-Tycoon-11-.html",
       "assets": [
         "world-tycoon-86aa-1.0.0-World-Tycoon-7-.html",
-        "cover-world-tycoon-86aa-1791134231378.png"
+        "cover-world-tycoon-86aa-1791134231378.png",
+        "world-tycoon-86aa-1.0.1-World-Tycoon-11-.html"
       ],
-      "fileName": "World Tycoon (7).html",
-      "fileSize": 35606,
+      "fileName": "World Tycoon (11).html",
+      "fileSize": 46596,
       "coverUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/cover-world-tycoon-86aa-1791134231378.png",
       "title": "World Tycoon",
       "tagline": "#Business Simulation #Tycoon #Strategy #Management",
@@ -24,8 +30,8 @@
       "description": "World Tycoon is a business management and economic strategy game where players buy plots of land, build thriving businesses, and expand their commercial empire. Start with limited funds, purchase affordable properties, and choose from a variety of businesses including Coffee Shops, Grocery Stores, Restaurants, Factories, Hotels, and Tech Offices. Earn passive income, upgrade your businesses, franchise successful locations, and strategically reinvest profits to dominate the market. With save management, multiplayer support, and deep economic progression, every decision shapes the growth of your global business empire.",
       "color": "#3b5bdb",
       "ageRating": 0,
-      "version": "1.0.0",
-      "updatedAt": 1791134232195
+      "version": "1.0.1",
+      "updatedAt": 1791164921922
     },
     {
       "id": "math-party-7f5b",
