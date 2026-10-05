@@ -5,6 +5,11 @@
       "publishedAt": 1791134230315,
       "history": [
         {
+          "version": "1.0.1",
+          "notes": "- New Ui",
+          "date": 1791230270092
+        },
+        {
           "version": "1.0.2",
           "notes": "-Made new Ui Changes",
           "date": 1791230207443
@@ -25,13 +30,14 @@
           "date": 1791134232195
         }
       ],
-      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/world-tycoon-86aa-1.0.2-World-Tycoon.html",
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/world-tycoon-86aa-1.0.1-World-Tycoon.html",
       "assets": [
         "world-tycoon-86aa-1.0.0-World-Tycoon-7-.html",
         "cover-world-tycoon-86aa-1791134231378.png",
         "world-tycoon-86aa-1.0.1-World-Tycoon-11-.html",
         "world-tycoon-86aa-1.0.2-World-Tycoon.html",
-        "world-tycoon-86aa-1.0.2-World-Tycoon.html"
+        "world-tycoon-86aa-1.0.2-World-Tycoon.html",
+        "world-tycoon-86aa-1.0.1-World-Tycoon.html"
       ],
       "fileName": "World Tycoon.html",
       "fileSize": 49647,
@@ -42,8 +48,8 @@
       "description": "World Tycoon is a business management and economic strategy game where players buy plots of land, build thriving businesses, and expand their commercial empire. Start with limited funds, purchase affordable properties, and choose from a variety of businesses including Coffee Shops, Grocery Stores, Restaurants, Factories, Hotels, and Tech Offices. Earn passive income, upgrade your businesses, franchise successful locations, and strategically reinvest profits to dominate the market. With save management, multiplayer support, and deep economic progression, every decision shapes the growth of your global business empire.",
       "color": "#3b5bdb",
       "ageRating": 0,
-      "version": "1.0.2",
-      "updatedAt": 1791230207443
+      "version": "1.0.1",
+      "updatedAt": 1791230270092
     },
     {
       "id": "math-party-7f5b",
