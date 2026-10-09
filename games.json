@@ -1,6 +1,33 @@
 {
   "games": [
     {
+      "id": "clipwise-567f",
+      "publishedAt": 1791516418880,
+      "history": [
+        {
+          "version": "1.0.0",
+          "notes": "Initial release",
+          "date": 1791516420602
+        }
+      ],
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/clipwise-567f-1.0.0-Clipwise-Video-Editor-1-.html",
+      "assets": [
+        "clipwise-567f-1.0.0-Clipwise-Video-Editor-1-.html",
+        "cover-clipwise-567f-1791516419794.png"
+      ],
+      "fileName": "Clipwise – Video Editor (1).html",
+      "fileSize": 181821,
+      "coverUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/cover-clipwise-567f-1791516419794.png",
+      "title": "Clipwise",
+      "tagline": "#editing",
+      "genre": "Editing",
+      "description": "Clipwise gives you a timeline editor with the speed of AI.\n\nEdit\n\nMerge as many clips as you like into one video, reorder them, split, trim and change speed, zoom and volume.\nAuto Cut scores your footage by voices, sound hits, motion and sharpness, then cuts to the best parts. Choose Smart, Talking, ASMR Impact, Beat montage or AI Director. Set the pace and target length, and undo anytime.\n\nCaptions and text\n\n20 animated caption styles with word-by-word highlighting, plus font, colour, outline, shadow and box controls. Drag captions into place on the preview.\nAuto-generate captions where your browser’s speech recognition supports it, or import .srt/.vtt files, paste a script, or type along with a built-in caption desk. Translate captions into other languages with Claude.\nAdd text layers as bars on the timeline. Move and trim them, and give each its own animation.\n\nEffects and looks\n\nFades, flashes, zooms, glitch, VHS, shake and more, as bars you can move and trim on the timeline.\nFilters, vignette, film grain, voice enhancement and generated background music.\n\nAI tools (use Claude)\n\nAI-designed thumbnails built from the best moments in your video.\nTitles, descriptions, tags and hashtags written from your video’s content.\nAI Studio turns a prompt or script into a lavender-paper motion-graphics video with cards, bold type and a marker call to action.\n\nExport\n\nVertical, square, 4:5, 16:9 and more, with 720p, 1080p, 1440p or 4K, at 24, 30 or 60 fps.",
+      "color": "#3b5bdb",
+      "ageRating": 0,
+      "version": "1.0.0",
+      "updatedAt": 1791516420602
+    },
+    {
       "id": "world-tycoon-0fea",
       "publishedAt": 1791230394910,
       "history": [
