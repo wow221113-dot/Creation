@@ -5,6 +5,11 @@
       "publishedAt": 1791572052191,
       "history": [
         {
+          "version": "1.0.2",
+          "notes": "- Fixed Bugs",
+          "date": 1791573865316
+        },
+        {
           "version": "1.0.1",
           "notes": "- Fixed Bugs",
           "date": 1791572918013
@@ -15,14 +20,15 @@
           "date": 1791572053721
         }
       ],
-      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/kingdom-tower-defens-aadc-1.0.1-kingdom-defense-party-2-.html",
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/kingdom-tower-defens-aadc-1.0.2-kingdom-defense-party-3-.html",
       "assets": [
         "kingdom-tower-defens-aadc-1.0.0-kingdom-defense-party-1-.html",
         "cover-kingdom-tower-defens-aadc-1791572053124.png",
-        "kingdom-tower-defens-aadc-1.0.1-kingdom-defense-party-2-.html"
+        "kingdom-tower-defens-aadc-1.0.1-kingdom-defense-party-2-.html",
+        "kingdom-tower-defens-aadc-1.0.2-kingdom-defense-party-3-.html"
       ],
-      "fileName": "kingdom-defense-party (2).html",
-      "fileSize": 41913,
+      "fileName": "kingdom-defense-party (3).html",
+      "fileSize": 42876,
       "coverUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/cover-kingdom-tower-defens-aadc-1791572053124.png",
       "title": "Kingdom Tower Defense",
       "tagline": "#TowerDefense",
@@ -30,8 +36,8 @@
       "description": "Kingdom Defense is a tower defense game where you protect your castle from waves of goblins, wolves, orcs, knights, and dragons.\n\nCampaign\n\n5 chapters with 8 worlds each: Meadow Kingdom, Dusty Dunes, Frostpeak, Ember Crags, and Void Citadel.\nEvery world is harder than the last, with new map layouts and scenery in each chapter.\nEach world ends in a boss fight, and world 8 of every chapter has two bosses. If a boss reaches your castle, the run is lost.\n\nUnits\n\nStart with one basic Archer and earn coins and XP from every world you play.\nSpend coins in the shop on 8 units: Archer, Cannon, Treasury, Mage, Ballista, Fire Mage, Tesla Coil, and Dragon Roost.\nMany units need a minimum player level before you can buy them.\nUpgrade each tower up to level 3 in battle, or sell it for most of its cost back.\n\nLoadout\n\nBring only a limited set of units into battle: 3 slots at level 1, a 4th slot at level 6, and a 5th at level 12.\nChoose your loadout to fit each chapter.\n\nUpgrades\n\nBuy permanent upgrades that boost damage, starting gold, and castle health.\n\nCo-op\n\nCreate a party and share the 5-letter code with your friends.\nDefend together with shared gold and a shared castle, while everyone keeps their own coins and XP.\n\nOther features\n\nChoose how each tower targets enemies: first, strongest, or last.\nSpeed up battles to 2x or 3x, or turn on auto-start for waves.\nCastle health bar, enemy health bars you can hide, and floating damage numbers.\nYour progress saves automatically.",
       "color": "#3b5bdb",
       "ageRating": 0,
-      "version": "1.0.1",
-      "updatedAt": 1791572918013
+      "version": "1.0.2",
+      "updatedAt": 1791573865316
     },
     {
       "id": "clipwise-567f",
