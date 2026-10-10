@@ -1,6 +1,33 @@
 {
   "games": [
     {
+      "id": "ultimate-party-21d1",
+      "publishedAt": 1791600037274,
+      "history": [
+        {
+          "version": "1.0.0",
+          "notes": "Initial release",
+          "date": 1791600038793
+        }
+      ],
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/ultimate-party-21d1-1.0.0-ultimate-party-game.html",
+      "assets": [
+        "ultimate-party-21d1-1.0.0-ultimate-party-game.html",
+        "cover-ultimate-party-21d1-1791600038270.png"
+      ],
+      "fileName": "ultimate-party-game.html",
+      "fileSize": 31655,
+      "coverUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/cover-ultimate-party-21d1-1791600038270.png",
+      "title": "Ultimate Party",
+      "tagline": "#fun #meme #speeddraw",
+      "genre": "Games",
+      "description": "The five rounds\n\n🧠 Trivia: a multiple-choice question where faster correct answers score more.\n🎨 Drawing: everyone draws the same prompt on a touch canvas, then everyone votes. You get 100 points per vote.\n🤥 Bluff: everyone writes a fake answer to an obscure-fact question. You get 200 points for spotting the real answer and 100 for each person you fool.\n⌨️ Speed typing: type the sentence exactly. Finishers are ranked by time, and anyone who doesn’t finish gets partial credit.\n😂 Meme: an emoji and a situation appear, everyone writes a caption, and everyone votes. You get 100 points per vote.",
+      "color": "#3b5bdb",
+      "ageRating": 0,
+      "version": "1.0.0",
+      "updatedAt": 1791600038793
+    },
+    {
       "id": "kingdom-tower-defens-aadc",
       "publishedAt": 1791572052191,
       "history": [
