@@ -1,6 +1,33 @@
 {
   "games": [
     {
+      "id": "plotline-6783",
+      "publishedAt": 1791663552640,
+      "history": [
+        {
+          "version": "1.0.0",
+          "notes": "Initial release",
+          "date": 1791663554103
+        }
+      ],
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/plotline-6783-1.0.0-Plotline_-World-3-.html",
+      "assets": [
+        "plotline-6783-1.0.0-Plotline_-World-3-.html",
+        "cover-plotline-6783-1791663553560.png"
+      ],
+      "fileName": "Plotline_ World (3).html",
+      "fileSize": 50953,
+      "coverUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/cover-plotline-6783-1791663553560.png",
+      "title": "Plotline",
+      "tagline": "#tycoon #money",
+      "genre": "Games",
+      "description": "Plotline is a multiplayer property tycoon played on a map of the whole world. Pick a spot, from the Florida coast to the streets of Tokyo, and buy plots of land. Build farms, shops, factories, solar farms, apartments and hotels. Add floors, set rents, keep your tenants warm, and watch your cash grow while you play.\n\nPlay with friends. Create a world, share its five-letter code, and everyone builds on the same map.\nMake offers. Want your friend’s best plot? Name your price, and they can accept or decline.\nClimate matters. Cold places cost more to heat, farms suffer in frost, and solar farms shine near the equator.\nClimb the leaderboard. See who’s richest and who owns the most plots.\nYour worlds are saved. Come back any time and pick up where you left off, even while you’re away your buildings keep earning.\nNo friends online? Play offline against computer-run rivals who compete with you for land.",
+      "color": "#3b5bdb",
+      "ageRating": 0,
+      "version": "1.0.0",
+      "updatedAt": 1791663554103
+    },
+    {
       "id": "ultimate-party-21d1",
       "publishedAt": 1791600037274,
       "history": [
