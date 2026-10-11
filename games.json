@@ -6,17 +6,23 @@
       "history": [
         {
           "version": "1.0.0",
+          "notes": "- Fixed Bugs",
+          "date": 1791684789262
+        },
+        {
+          "version": "1.0.0",
           "notes": "Initial release",
           "date": 1791663554103
         }
       ],
-      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/plotline-6783-1.0.0-Plotline_-World-3-.html",
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/plotline-6783-1.0.0-Plotline_-World-4-.html",
       "assets": [
         "plotline-6783-1.0.0-Plotline_-World-3-.html",
-        "cover-plotline-6783-1791663553560.png"
+        "cover-plotline-6783-1791663553560.png",
+        "plotline-6783-1.0.0-Plotline_-World-4-.html"
       ],
-      "fileName": "Plotline_ World (3).html",
-      "fileSize": 50953,
+      "fileName": "Plotline_ World (4).html",
+      "fileSize": 64424,
       "coverUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/cover-plotline-6783-1791663553560.png",
       "title": "Plotline",
       "tagline": "#tycoon #money",
@@ -25,7 +31,7 @@
       "color": "#3b5bdb",
       "ageRating": 0,
       "version": "1.0.0",
-      "updatedAt": 1791663554103
+      "updatedAt": 1791684789262
     },
     {
       "id": "ultimate-party-21d1",
