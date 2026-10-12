@@ -1,6 +1,33 @@
 {
   "games": [
     {
+      "id": "aurelia-tides-of-the-6c4e",
+      "publishedAt": 1791771631990,
+      "history": [
+        {
+          "version": "1.0.0",
+          "notes": "Initial release",
+          "date": 1791771633407
+        }
+      ],
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/aurelia-tides-of-the-6c4e-1.0.0-Aurelia_-Tides-of-the-Sleeping-Dragon.html",
+      "assets": [
+        "aurelia-tides-of-the-6c4e-1.0.0-Aurelia_-Tides-of-the-Sleeping-Dragon.html",
+        "cover-aurelia-tides-of-the-6c4e-1791771632863.png"
+      ],
+      "fileName": "Aurelia_ Tides of the Sleeping Dragon.html",
+      "fileSize": 107828,
+      "coverUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/cover-aurelia-tides-of-the-6c4e-1791771632863.png",
+      "title": "Aurelia: Tides of the Sleeping Dragon",
+      "tagline": "#fun #game",
+      "genre": "Games",
+      "description": "A land where the tides remember, the mountains sing, and an old sleeping power is beginning to stir.\n\nAurelia is an original monster-catching adventure that plays in your browser. You walk a 2D overworld, battle in animated turn-based fights, and build a team from 55 monsters. Your journey runs from a quiet harbor town to the League at Aurelion Peak. Along the way you uncover the legend of Aurelion, the Tide Dragon, and a secret that ties your own mentor to the villains.\n\nThe adventure\nRegion: 12 cities, from Driftwood Cove, Brinehaven, Mossgrove, Cinderpost, Voltspire and Hollowmere to Stonecrest, Duskwater, Frostmere, Wyrmrest, Gilded Harbor and Aurelion Peak.\n8 Gyms and 8 badges:Gym Leader\tTown\tType\nMarla Tide\tBrinehaven\tWater\nFennel Arbor\tMossgrove\tGrass\nKael Ashgrove\tCinderpost\tFire\nJuno Voltaire\tVoltspire\tElectric\nGarnet Stonehand\tStonecrest\tRock\nMorwen Hollow\tDuskwater\tGhost\nSable Frostwick\tFrostmere\tIce\nDrasa Wyrmward\tWyrmrest\tDragon\nThe League: four Elite members, Ione (Ice), Corvin (Dark), Tamsin (Fire) and Halcyon (Water/Dragon). Champion Solenne waits at the top.\nStory: your rival Vesper and her missing brother Cal, the sinister Team Undertow (Captain Mordecai Vale, Lt. Nyx, Admin Brine), and your mentor Professor Thorne. The Undertow are hunting the pearls that can wake Aurelion, and there are several plot twists along the way.\nGame features\nCharacter creation: a Trainer License with a live preview. You choose appearance, height, birthday, blood type and a “dream” that gives a starting perk.\nCinematic opening: an animated title screen, a legend prologue, a lab scene for choosing your starter, and a sunrise intro.\nThree game worlds: separate save slots, each its own adventure, with auto-save.\n2D overworld: walk with arrow keys or WASD, or an on-screen pad. Tall grass triggers wild encounters, and the map darkens in the evening based on your device’s clock.\nAnimated battles: attack animations, damage numbers, super-effective and critical hits, burn, paralysis and sleep, and EXP gain. In trainer fights you see the opponent’s character and a row showing how many monsters they have left.\nCatching: Catch Orb, Great Orb, Ultra Orb and Master Orb. Odds depend on the monster’s HP, status, rarity and the orb.\nTowns: a Monster Center to heal your team, an Orb Mart (orbs, Potions, Revives and EXP Candies), NPCs, and cutscenes with evolution animations.\nQuests and tournaments: 12 side quests, 3 new daily quests each day with streak bonuses, and the Bronze, Silver, Gold and Champion Cups.\nSound: music and sound effects, with a mute button.\nPost-game: the Battle Tower, hard Gym rematches, a World Ranking, and rare legendary hunts at Aurelion Peak.\nTypes and abilities\n\nThere are 10 types: Normal, Fire, Water, Grass, Electric, Ice, Rock, Ghost, Dark and Dragon.\n\nA monster’s ability depends on its first type:\n\nOvergrow (Grass first), Blaze (Fire first) and Torrent (Water first). Below ⅓ HP, these boost damage from moves of that same type by 50%.\nKeen Eye is the ability for every other first type.\nAll 55 monsters\n#\tMonster\tType\tAbility\tEvolves\n1\tThornling\tGrass\tOvergrow\tLv 16 → Briarfox\n2\tBriarfox\tGrass\tOvergrow\tLv 36 → Eldergrove Sovereign\n3\tEldergrove Sovereign\tGrass\tOvergrow\tFinal\n4\tCindrake\tFire\tBlaze\tLv 16 → Pyrowyrm\n5\tPyrowyrm\tFire\tBlaze\tLv 36 → Infernal Dragonlord\n6\tInfernal Dragonlord\tFire / Dragon\tBlaze\tFinal\n7\tTidepup\tWater\tTorrent\tLv 16 → Surgehound\n8\tSurgehound\tWater\tTorrent\tLv 36 → Leviathan Warden\n9\tLeviathan Warden\tWater / Ice\tTorrent\tFinal\n10\tSkyfeather\tNormal\tKeen Eye\tLv 18 → Galewing\n11\tGalewing\tNormal\tKeen Eye\tFinal\n12\tPebblit\tRock\tKeen Eye\tLv 25 → Bouldrath\n13\tBouldrath\tRock\tKeen Eye\tFinal\n14\tZappit\tElectric\tKeen Eye\tLv 22 → Voltrat\n15\tVoltrat\tElectric\tKeen Eye\tFinal\n16\tDuskrat\tDark\tKeen Eye\tLv 24 → Nightfang\n17\tNightfang\tDark\tKeen Eye\tFinal\n18\tWispling\tGhost\tKeen Eye\tLv 28 → Phantomist\n19\tPhantomist\tGhost\tKeen Eye\tFinal\n20\tFrostkit\tIce\tKeen Eye\tLv 30 → Glacivern\n21\tGlacivern\tIce\tKeen Eye\tFinal\n22\tReefling\tWater\t",
+      "color": "#3b5bdb",
+      "ageRating": 0,
+      "version": "1.0.0",
+      "updatedAt": 1791771633407
+    },
+    {
       "id": "plotline-6783",
       "publishedAt": 1791663552640,
       "history": [
