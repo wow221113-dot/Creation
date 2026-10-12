@@ -1,6 +1,33 @@
 {
   "games": [
     {
+      "id": "golden-duck-hunt-7dfe",
+      "publishedAt": 1791835111811,
+      "history": [
+        {
+          "version": "1.0.0",
+          "notes": "Initial release",
+          "date": 1791835113580
+        }
+      ],
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/golden-duck-hunt-7dfe-1.0.0-golden-duck-hunt-3-.html",
+      "assets": [
+        "golden-duck-hunt-7dfe-1.0.0-golden-duck-hunt-3-.html",
+        "cover-golden-duck-hunt-7dfe-1791835112836.png"
+      ],
+      "fileName": "golden-duck-hunt (3).html",
+      "fileSize": 50381,
+      "coverUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/cover-golden-duck-hunt-7dfe-1791835112836.png",
+      "title": "Golden Duck Hunt",
+      "tagline": "#fun",
+      "genre": "Games",
+      "description": "Deep in the hay of Quackwood Farm lies a legend: a Golden Rubber Duck buried among thousands of ordinary ones. Grab your radar, listen for the beeps, and start digging.\n\nFirst-person digging: Walk the haystack, follow your radar’s beeps as ducks get closer, and dig them out.\nFour difficulties: Easy has 150 ducks, Normal 600, Hard 1,500 and Insane 4,000. The haystack grows with each level.\nShops: Sell your ducks to the Duck Buyer, since rarer yellow, pink, blue and rainbow ducks are worth more. Spend the coins at the Tool Shop on better shovels, radars and boots. The Golden Sensor radar gives a special ping when the golden duck is near.\nMultiplayer: Host a party and share the 5-letter code. Everyone digs the same haystack, sees each other and each other’s holes, and the first to find the golden duck wins.\nSaving: There are 10 save slots plus an autosave. If you get disconnected, you can rejoin your party with your coins, ducks and tools intact.\nCutscenes: There’s a story intro, scenes at each shop and the haystack, and a golden finale when you find the duck.",
+      "color": "#3b5bdb",
+      "ageRating": 0,
+      "version": "1.0.0",
+      "updatedAt": 1791835113580
+    },
+    {
       "id": "aurelia-tides-of-the-6c4e",
       "publishedAt": 1791771631990,
       "history": [
