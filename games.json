@@ -1,6 +1,33 @@
 {
   "games": [
     {
+      "id": "realm-of-mortals-7acc",
+      "publishedAt": 1791944123655,
+      "history": [
+        {
+          "version": "1.0.0",
+          "notes": "Initial release",
+          "date": 1791944126570
+        }
+      ],
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/realm-of-mortals-7acc-1.0.0-Realm-of-Mortals-1-.html",
+      "assets": [
+        "realm-of-mortals-7acc-1.0.0-Realm-of-Mortals-1-.html",
+        "cover-realm-of-mortals-7acc-1791944124732.png"
+      ],
+      "fileName": "Realm of Mortals (1).html",
+      "fileSize": 60456,
+      "coverUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/cover-realm-of-mortals-7acc-1791944124732.png",
+      "title": "Realm of Mortals",
+      "tagline": "#fun",
+      "genre": "Games",
+      "description": "Become a god in Realm of Mortals, a living voxel world where tribes found villages, farm the land, build castles and march to war. You have unlimited divine power and 18 ways to use it. Heal and bless your people, summon rain and forests, raise mountains, or unleash tornadoes, plagues, earthquakes, volcanoes and meteor storms.\n\nShape civilizations\n\nTribes grow from Tribal to Medieval, building houses, farms, windmills, markets, blacksmiths, cathedrals, watchtowers, barracks, stables and castles.\nPlace units and buildings yourself, or drop in a prebuilt civilization, from a humble hamlet to a grand empire.\nCommand villagers, warriors, archers, knights, horse swordsmen and healing priests.\n\nRule the diplomacy\n\nDeclare war, sign peace, forge trade pacts or alliances. Allies join your wars, and betrayal has consequences.\n\nA world that feels alive\n\nDay and night, four seasons, weather, spreading fires, and music that turns darker when war breaks out.\n10 save slots let you keep several worlds going.",
+      "color": "#3b5bdb",
+      "ageRating": 0,
+      "version": "1.0.0",
+      "updatedAt": 1791944126570
+    },
+    {
       "id": "moo-who-9aee",
       "publishedAt": 1791940534301,
       "history": [
