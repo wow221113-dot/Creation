@@ -1,6 +1,33 @@
 {
   "games": [
     {
+      "id": "quoridor-7ba5",
+      "publishedAt": 1792030618189,
+      "history": [
+        {
+          "version": "1.0.0",
+          "notes": "Initial release",
+          "date": 1792030619879
+        }
+      ],
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/quoridor-7ba5-1.0.0-quoridor-2-.html",
+      "assets": [
+        "quoridor-7ba5-1.0.0-quoridor-2-.html",
+        "cover-quoridor-7ba5-1792030619263.png"
+      ],
+      "fileName": "quoridor (2).html",
+      "fileSize": 29086,
+      "coverUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/cover-quoridor-7ba5-1792030619263.png",
+      "title": "Quoridor",
+      "tagline": "#fun",
+      "genre": "Games",
+      "description": "Quoridor is the classic strategy board game of racing and blocking. Move your pawn across the board to the opposite edge, or spend a wall to throw your opponent off course. Every move is a choice, and you can never completely trap anyone.\n\nFeatures:\n\nPlay the computer on Easy, Medium or Hard, from relaxed games to a tough opponent that plans several moves ahead\nPlay online by sharing a room code with a friend, with no account needed\nPass and play with two players on one screen\nSmart wall placement with a live preview, and illegal walls are blocked for you\nPolished look with smooth animations, sound effects, an animated intro and a victory screen\nQuick to learn: a short how-to-play guide is built in",
+      "color": "#3b5bdb",
+      "ageRating": 0,
+      "version": "1.0.0",
+      "updatedAt": 1792030619879
+    },
+    {
       "id": "realm-of-mortals-7acc",
       "publishedAt": 1791944123655,
       "history": [
