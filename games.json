@@ -1,6 +1,33 @@
 {
   "games": [
     {
+      "id": "make-that-sound-fbdd",
+      "publishedAt": 1792111456591,
+      "history": [
+        {
+          "version": "1.0.0",
+          "notes": "Initial release",
+          "date": 1792111458274
+        }
+      ],
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/make-that-sound-fbdd-1.0.0-make-that-sound-1-.html",
+      "assets": [
+        "make-that-sound-fbdd-1.0.0-make-that-sound-1-.html",
+        "cover-make-that-sound-fbdd-1792111457724.png"
+      ],
+      "fileName": "make-that-sound (1).html",
+      "fileSize": 59884,
+      "coverUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/cover-make-that-sound-fbdd-1792111457724.png",
+      "title": "Make That Sound",
+      "tagline": "#fun",
+      "genre": "Games",
+      "description": "Make That Sound! is a fast, silly party game for 1 to many players. Each round, a mystery sound plays: a ringtone, a siren, a cuckoo clock, a rocket launch. Then it’s your turn to copy it with your voice.\n\nEveryone performs at once. Your character steps up to the mic on a real stage and moves with your voice.\nHear everyone’s attempt. After recording, each player’s clip plays back one at a time, with their character on the mic.\nScored on the match. You get up to 100 points for matching the sound’s rhythm and pitch, then friends vote for who nailed it, worth 20 bonus points per vote.\nDifferent every round. The same sound comes back higher, lower, faster, slower or reversed, so no two rounds play the same.\nPlay your way. Take on 1 to 3 AI opponents on Easy, Medium or Hard, or host a party and invite friends with a 5-letter code.\nMake it yours. Pick your avatar, the number of rounds, light or dark theme, and open mic or hold to talk.",
+      "color": "#3b5bdb",
+      "ageRating": 0,
+      "version": "1.0.0",
+      "updatedAt": 1792111458274
+    },
+    {
       "id": "quoridor-7ba5",
       "publishedAt": 1792030618189,
       "history": [
