@@ -6,26 +6,32 @@
       "history": [
         {
           "version": "1.0.0",
+          "notes": "-Fixed Bugs",
+          "date": 1792249090772
+        },
+        {
+          "version": "1.0.0",
           "notes": "Initial release",
           "date": 1792193535958
         }
       ],
-      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/rope-rush-b7c4-1.0.0-Rope-Rush-3-.html",
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/rope-rush-b7c4-1.0.0-Rope-Rush.html",
       "assets": [
         "rope-rush-b7c4-1.0.0-Rope-Rush-3-.html",
-        "cover-rope-rush-b7c4-1792193535486.png"
+        "cover-rope-rush-b7c4-1792193535486.png",
+        "rope-rush-b7c4-1.0.0-Rope-Rush.html"
       ],
-      "fileName": "Rope Rush (3).html",
-      "fileSize": 74390,
+      "fileName": "Rope Rush.html",
+      "fileSize": 77206,
       "coverUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/cover-rope-rush-b7c4-1792193535486.png",
       "title": "Rope Rush",
       "tagline": "#fun",
       "genre": "Games",
-      "description": "Rope Rush",
+      "description": "🏃 Multiplayer Racing: Play with friends online and race through obstacle-filled courses.\n🤝 Co-op Mode: Work together to reach the finish line while staying connected and helping your teammates.\n🏆 Solo Race Mode: Compete head-to-head against other players or AI opponents without the rope restriction. The fastest finish time wins.\n🎯 Progression System: Earn coins from completing races, placing in competitions, and achieving victories.\n🥇 Competitive Rewards: Gain bonus coins based on finishing position, with extra rewards for first place finishes.\n🤖 Optional AI Racers: Fill races with AI opponents or challenge real players only.\n👀 Spectator Mode: After finishing a race, watch the remaining competitors battle for the top spot instead of waiting in the lobby.\n🌎 Online Multiplayer: Optimized networking provides smoother movement prediction and reduced lag during races.",
       "color": "#3b5bdb",
       "ageRating": 0,
       "version": "1.0.0",
-      "updatedAt": 1792193535958
+      "updatedAt": 1792249090772
     },
     {
       "id": "make-that-sound-fbdd",
