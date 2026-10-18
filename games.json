@@ -131,18 +131,24 @@
       "publishedAt": 1791940534301,
       "history": [
         {
+          "version": "1.0.1",
+          "notes": "-Fixed Audio Bug",
+          "date": 1792291205911
+        },
+        {
           "version": "1.0.0",
           "notes": "Initial release",
           "date": 1791940535787
         }
       ],
-      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/moo-who-9aee-1.0.0-Moo-Who_-1-.html",
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/moo-who-9aee-1.0.1-Moo-Who_-4-.html",
       "assets": [
         "moo-who-9aee-1.0.0-Moo-Who_-1-.html",
-        "cover-moo-who-9aee-1791940535346.png"
+        "cover-moo-who-9aee-1791940535346.png",
+        "moo-who-9aee-1.0.1-Moo-Who_-4-.html"
       ],
-      "fileName": "Moo Who_ (1).html",
-      "fileSize": 81923,
+      "fileName": "Moo Who_ (4).html",
+      "fileSize": 95580,
       "coverUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/cover-moo-who-9aee-1791940535346.png",
       "title": "Moo Who",
       "tagline": "#fun",
@@ -150,8 +156,8 @@
       "description": "Moo Who? is a multiplayer game of hide-and-seek and bluffing on a sunset farm. Each round, one random player becomes the seeker and the other three become hiders.\n\nHiders pick an animal (cow, pig, goat, dog, sheep or chicken). No two hiders can pick the same one. Each hider then records two voices with their own microphone. The first is a herd voice, which every NPC animal of the same kind will use. The second is their own voice, which plays when they call. Once the hunt starts, hiders have to keep making sound, or their voice plays automatically. They can copy the herd voice to blend in, or make it different to bluff the seeker.\n\nThe seeker waits blindfolded through the prep and a 15-second head start, then searches the farm. The shotgun has limited shells, and shooting an NPC wastes one. The game shows ❌ WRONG or ✅ CORRECT after every shot. Hiders win by surviving 3 minutes, and the seeker wins by finding all three.\n\nThe party host can choose whether NPC animals make sounds along with the players, or only player voices are heard. The host can also decide whether the farm has all animals or only the animals the hiders picked.",
       "color": "#3b5bdb",
       "ageRating": 0,
-      "version": "1.0.0",
-      "updatedAt": 1791940535787
+      "version": "1.0.1",
+      "updatedAt": 1792291205911
     },
     {
       "id": "golden-duck-hunt-7dfe",
