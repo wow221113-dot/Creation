@@ -1,6 +1,33 @@
 {
   "games": [
     {
+      "id": "lot-together-9048",
+      "publishedAt": 1793365085102,
+      "history": [
+        {
+          "version": "1.0.0",
+          "notes": "Initial release",
+          "date": 1793365087682
+        }
+      ],
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/lot-together-9048-1.0.0-Lot-Together.html",
+      "assets": [
+        "lot-together-9048-1.0.0-Lot-Together.html",
+        "cover-lot-together-9048-1793365086712.png"
+      ],
+      "fileName": "Lot Together.html",
+      "fileSize": 149731,
+      "coverUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/cover-lot-together-9048-1793365086712.png",
+      "title": "Lot Together",
+      "tagline": "#fun",
+      "genre": "Games",
+      "description": "A lively, video game-inspired scene capturing four friends working together in a bustling auto repair shop. Rendered in a crisp, 3D stylized art style, the squad collaborates around an open car hood with dynamic lighting and interactive gameplay HUD elements—featuring health bars, mini-maps, and mission objectives floating above the action.",
+      "color": "#3b5bdb",
+      "ageRating": 0,
+      "version": "1.0.0",
+      "updatedAt": 1793365087682
+    },
+    {
       "id": "rope-rush-b7c4",
       "publishedAt": 1792193534464,
       "history": [
