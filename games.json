@@ -5,18 +5,24 @@
       "publishedAt": 1793413798625,
       "history": [
         {
+          "version": "1.0.1",
+          "notes": "- fixed bugs",
+          "date": 1793455765879
+        },
+        {
           "version": "1.0.0",
           "notes": "Initial release",
           "date": 1793413800800
         }
       ],
-      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/raft-party-249d-1.0.0-Raft-Party.html",
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/raft-party-249d-1.0.1-Raft-Party-1-.html",
       "assets": [
         "raft-party-249d-1.0.0-Raft-Party.html",
-        "cover-raft-party-249d-1793413799924.png"
+        "cover-raft-party-249d-1793413799924.png",
+        "raft-party-249d-1.0.1-Raft-Party-1-.html"
       ],
-      "fileName": "Raft Party.html",
-      "fileSize": 72392,
+      "fileName": "Raft Party (1).html",
+      "fileSize": 96842,
       "coverUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/cover-raft-party-249d-1793413799924.png",
       "title": "Raft Party",
       "tagline": "#fun",
@@ -24,8 +30,8 @@
       "description": "Hop on a raft and send it down a twisting canyon water slide. Steer through coin trails, jump over spinning spiked rollers, launch off ramps for big air, and hit blue boost pads for a turbo burst. Punch rivals to knock them off line, and race for first place at the finish gate.\n\nHost a party and share the invite code to race up to your whole group, or play solo against three AI rafts. Earn coins every race to unlock skins, from caps and crowns to wizard hats, with sound effects and music throughout.",
       "color": "#3b5bdb",
       "ageRating": 0,
-      "version": "1.0.0",
-      "updatedAt": 1793413800800
+      "version": "1.0.1",
+      "updatedAt": 1793455765879
     },
     {
       "id": "lot-together-9048",
