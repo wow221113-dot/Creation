@@ -1,6 +1,33 @@
 {
   "games": [
     {
+      "id": "the-exam-c7e0",
+      "publishedAt": 1793585379349,
+      "history": [
+        {
+          "version": "1.0.0",
+          "notes": "Initial release",
+          "date": 1793585381657
+        }
+      ],
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/the-exam-c7e0-1.0.0-The-Exam-Don-t-Get-Caught-1-.html",
+      "assets": [
+        "the-exam-c7e0-1.0.0-The-Exam-Don-t-Get-Caught-1-.html",
+        "cover-the-exam-c7e0-1793585380757.png"
+      ],
+      "fileName": "The Exam – Don’t Get Caught (1).html",
+      "fileSize": 45210,
+      "coverUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/cover-the-exam-c7e0-1793585380757.png",
+      "title": "The Exam",
+      "tagline": "#fun",
+      "genre": "Games",
+      "description": "Pick your method:\n📱 Phone: fast but risky.\n👀 Peek: look at a neighbor’s paper.\n📝 Cheat sheet: hidden in your lap.\n⌚ Watch: slow, but almost impossible to notice.\nWatch the teacher: they walk the aisles and scan the class from the front. If they see you cheating, the suspicion bar fills.\nGet caught: the teacher storms over, slams a fist on your desk, snatches your paper, and kicks you out the door.\nWin: whoever has the most answers when time runs out wins.",
+      "color": "#3b5bdb",
+      "ageRating": 0,
+      "version": "1.0.0",
+      "updatedAt": 1793585381657
+    },
+    {
       "id": "raft-party-249d",
       "publishedAt": 1793413798625,
       "history": [
