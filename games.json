@@ -5,18 +5,24 @@
       "publishedAt": 1794170517578,
       "history": [
         {
+          "version": "1.0.1",
+          "notes": "- Fixed Bugs",
+          "date": 1794343295768
+        },
+        {
           "version": "1.0.0",
           "notes": "Initial release",
           "date": 1794170525835
         }
       ],
-      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/kindle-d1e9-1.0.0-Kindle.Setup.1.1.1.exe",
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/kindle-d1e9-1.0.1-Kindle.Setup.1.1.1-1-.exe",
       "assets": [
         "kindle-d1e9-1.0.0-Kindle.Setup.1.1.1.exe",
-        "cover-kindle-d1e9-1794170524940.png"
+        "cover-kindle-d1e9-1794170524940.png",
+        "kindle-d1e9-1.0.1-Kindle.Setup.1.1.1-1-.exe"
       ],
-      "fileName": "Kindle.Setup.1.1.1.exe",
-      "fileSize": 78351176,
+      "fileName": "Kindle.Setup.1.1.1 (1).exe",
+      "fileSize": 78355172,
       "coverUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/cover-kindle-d1e9-1794170524940.png",
       "title": "Kindle",
       "tagline": "#chating",
@@ -24,8 +30,8 @@
       "description": "Create or join servers, chat in text channels, hop into voice campfires to talk, and add friends for private messages.\n\nWhat you can do\n\nSign up with your email and a username, then pick your avatar color or upload your own picture.\nTake a quick survey and get an auto-written bio for your profile.\nJoin the MSB server automatically, or create your own server with a unique name.\nInvite friends with a link, or let them find your server by name.\nChat with reactions, links and commands like /roll and /flip, and watch each channel’s warmth meter glow as the conversation heats up.\nTalk live in voice channels with mute and deafen controls, and see who’s speaking.\nAdd friends, send direct messages, and see who’s online.\nChoose a dark or light look, and get update reminders when there’s a new version.",
       "color": "#3b5bdb",
       "ageRating": 0,
-      "version": "1.0.0",
-      "updatedAt": 1794170525835
+      "version": "1.0.1",
+      "updatedAt": 1794343295768
     },
     {
       "id": "the-exam-c7e0",
