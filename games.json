@@ -6,6 +6,11 @@
       "history": [
         {
           "version": "1.0.1",
+          "notes": "-Added New Stuff",
+          "date": 1794445809727
+        },
+        {
+          "version": "1.0.1",
           "notes": "- Fixed Bugs",
           "date": 1794343295768
         },
@@ -15,14 +20,15 @@
           "date": 1794170525835
         }
       ],
-      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/kindle-d1e9-1.0.1-Kindle.Setup.1.1.1-1-.exe",
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/kindle-d1e9-1.0.1-Kindle.Setup.1.1.1-2-.exe",
       "assets": [
         "kindle-d1e9-1.0.0-Kindle.Setup.1.1.1.exe",
         "cover-kindle-d1e9-1794170524940.png",
-        "kindle-d1e9-1.0.1-Kindle.Setup.1.1.1-1-.exe"
+        "kindle-d1e9-1.0.1-Kindle.Setup.1.1.1-1-.exe",
+        "kindle-d1e9-1.0.1-Kindle.Setup.1.1.1-2-.exe"
       ],
-      "fileName": "Kindle.Setup.1.1.1 (1).exe",
-      "fileSize": 78355172,
+      "fileName": "Kindle.Setup.1.1.1 (2).exe",
+      "fileSize": 78357609,
       "coverUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/cover-kindle-d1e9-1794170524940.png",
       "title": "Kindle",
       "tagline": "#chating",
@@ -31,7 +37,7 @@
       "color": "#3b5bdb",
       "ageRating": 0,
       "version": "1.0.1",
-      "updatedAt": 1794343295768
+      "updatedAt": 1794445809727
     },
     {
       "id": "the-exam-c7e0",
