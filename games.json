@@ -1,6 +1,33 @@
 {
   "games": [
     {
+      "id": "rookery-9113",
+      "publishedAt": 1794538388689,
+      "history": [
+        {
+          "version": "1.0.0",
+          "notes": "Initial release",
+          "date": 1794538391592
+        }
+      ],
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/rookery-9113-1.0.0-rookery-2-.html",
+      "assets": [
+        "rookery-9113-1.0.0-rookery-2-.html",
+        "cover-rookery-9113-1794538390596.png"
+      ],
+      "fileName": "rookery (2).html",
+      "fileSize": 89343,
+      "coverUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/cover-rookery-9113-1794538390596.png",
+      "title": "Rookery",
+      "tagline": "#fun #chess",
+      "genre": "Games",
+      "description": "🌫️ Fog of War: You only see squares within two steps of your own pieces. Everything else is darkened. While the game is on, the opponent’s moves in the move list show as “···” and captured pieces are hidden. The bot sees the whole board.\n⛰️ King of the Hill: You win by checkmate or by walking your king onto d4, e4, d5 or e5, which are outlined in gold. The bots know the rule and will race you there.\n3️⃣ Three-Check: Give check three times and you win. A ✔ counter sits next to each player’s name, and the bots favour checking moves.\n🔀 Shuffle Chess: The back rank is randomised each game, with bishops on opposite colours and the king between the rooks. There’s no castling, and Rematch gives a new shuffle.\n🎁 Handicap: You start a piece up by choosing whether the bot is missing its queen, rook, bishop or knight. It’s unrated and pays half coins.\n⚡ Blitz: Pick 1, 3 or 5 minutes per side, with a live clock on each player. If your time runs out, you lose.",
+      "color": "#3b5bdb",
+      "ageRating": 0,
+      "version": "1.0.0",
+      "updatedAt": 1794538391592
+    },
+    {
       "id": "kindle-d1e9",
       "publishedAt": 1794170517578,
       "history": [
