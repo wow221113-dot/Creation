@@ -5,27 +5,33 @@
       "publishedAt": 1794538388689,
       "history": [
         {
+          "version": "1.13.0",
+          "notes": "-Fixed Bugs",
+          "date": 1794628704708
+        },
+        {
           "version": "1.0.0",
           "notes": "Initial release",
           "date": 1794538391592
         }
       ],
-      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/rookery-9113-1.0.0-rookery-2-.html",
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/rookery-9113-1.13.0-rookery-1-.html",
       "assets": [
         "rookery-9113-1.0.0-rookery-2-.html",
-        "cover-rookery-9113-1794538390596.png"
+        "cover-rookery-9113-1794538390596.png",
+        "rookery-9113-1.13.0-rookery-1-.html"
       ],
-      "fileName": "rookery (2).html",
-      "fileSize": 89343,
+      "fileName": "rookery (1).html",
+      "fileSize": 114022,
       "coverUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/cover-rookery-9113-1794538390596.png",
       "title": "Rookery",
       "tagline": "#fun #chess",
       "genre": "Games",
-      "description": "🌫️ Fog of War: You only see squares within two steps of your own pieces. Everything else is darkened. While the game is on, the opponent’s moves in the move list show as “···” and captured pieces are hidden. The bot sees the whole board.\n⛰️ King of the Hill: You win by checkmate or by walking your king onto d4, e4, d5 or e5, which are outlined in gold. The bots know the rule and will race you there.\n3️⃣ Three-Check: Give check three times and you win. A ✔ counter sits next to each player’s name, and the bots favour checking moves.\n🔀 Shuffle Chess: The back rank is randomised each game, with bishops on opposite colours and the king between the rooks. There’s no castling, and Rematch gives a new shuffle.\n🎁 Handicap: You start a piece up by choosing whether the bot is missing its queen, rook, bishop or knight. It’s unrated and pays half coins.\n⚡ Blitz: Pick 1, 3 or 5 minutes per side, with a live clock on each player. If your time runs out, you lose.",
+      "description": "Rookery is a chess club in your browser. It has smart bots, new ways to play and a shop of animated pieces and boards to spend your coins on. You can play alone or with friends online.\n\nPlay your way\n\n15 bots with personalities: From Pip the Pawn (about 400 Elo) to Grandmaster Zero (about 2400). Each one has its own playing style, and Elo labels are approximate.\nGame modes: Secret Queen, Fog of War, King of the Hill, Three-Check, Shuffle Chess, Handicap and Blitz.\nPractice mode: Play both sides with free undo and redo, engine hints and an auto-flipping board.\nEndgame lab: Drill checkmates and the Lucena position against a Master-level defender.\nAI coach: Analyze any finished game to see your mistakes, the better moves and personal tips.\n\nPlay with others\n\nOnline matches: Find a match with players of a similar rating, with a timer you choose (3 to 15 minutes, or none). If nobody joins within 2 minutes, you’re matched with a bot at your level.\nFriends: Add friends by code, challenge them and rematch.\nDownloaded version: Online play and friends also work in the downloaded file, using room codes and the free PeerJS connection service.\n\nWin, earn and collect\n\nCoins: Win games for big rewards, draw for some, and even a loss pays a little.\nShop: Animated piece sets, boards, avatars, titles, sound packs, animated backdrops, boosters and a Mystery Chest.\nDaily rewards: A 7-day streak with a Streak Shield to protect it.\nHoliday events: Themed backgrounds, special bots and double coins around Halloween, Thanksgiving, Christmas and more.\n\nTrack your progress\n\nRating history graph, win rate and a full game history you can review move by move.\nSaved games, so you can leave a game and continue it later.\nSettings for sound, theme, board options, AI speed and online match range.",
       "color": "#3b5bdb",
       "ageRating": 0,
-      "version": "1.0.0",
-      "updatedAt": 1794538391592
+      "version": "1.13.0",
+      "updatedAt": 1794628704708
     },
     {
       "id": "kindle-d1e9",
