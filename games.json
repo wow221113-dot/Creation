@@ -5,6 +5,11 @@
       "publishedAt": 1795182881516,
       "history": [
         {
+          "version": "1.0.9",
+          "notes": "-New Stuff",
+          "date": 1795567815682
+        },
+        {
           "version": "1.0.7",
           "notes": "-New Stuff Added",
           "date": 1795404608965
@@ -15,15 +20,16 @@
           "date": 1795182892796
         }
       ],
-      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/tilt-8556-1.0.7-Tilt-Setup-1.0.7.exe",
+      "fileUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/tilt-8556-1.0.9-Tilt-Setup-1.0.9.exe",
       "assets": [
         "tilt-8556-1.0.0-Tilt-Setup-1.0.4.exe",
         "cover-tilt-8556-1795182891879.png",
         "tilt-8556-1.0.7-Tilt-Setup-1.0.7.exe",
-        "cover-tilt-8556-1795404607720.png"
+        "cover-tilt-8556-1795404607720.png",
+        "tilt-8556-1.0.9-Tilt-Setup-1.0.9.exe"
       ],
-      "fileName": "Tilt-Setup-1.0.7.exe",
-      "fileSize": 82207357,
+      "fileName": "Tilt-Setup-1.0.9.exe",
+      "fileSize": 82214781,
       "coverUrl": "https://github.com/wow221113-dot/Creation/releases/download/game-files/cover-tilt-8556-1795404607720.png",
       "title": "Tilt",
       "tagline": "#app #fun #socialmedia",
@@ -31,8 +37,8 @@
       "description": "Tilt is a social app that combines short clips, quick posts and games in one place. You scroll through clips from creators, post short updates with photos or polls, and play games like Snake, 2048 and Tic Tac Toe without leaving the app. You can follow friends, message them privately, comment and reply, save and repost posts, and watch your own posts gather views and likes. Your best game scores are saved and ranked on leaderboards.\n\nIt runs on your desktop with its own icon and updates itself. Accounts and friends work online, and the app's owner has an admin panel for sending announcements, managing accounts and moderating posts.",
       "color": "#3b5bdb",
       "ageRating": 0,
-      "version": "1.0.7",
-      "updatedAt": 1795404608965
+      "version": "1.0.9",
+      "updatedAt": 1795567815682
     },
     {
       "id": "rookery-9113",
